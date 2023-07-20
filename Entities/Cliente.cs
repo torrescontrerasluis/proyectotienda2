@@ -13,6 +13,7 @@ namespace proyecto_tienda.Entities
 
         [Key] 
 
+        //QAMAOLADlD
         public int PkCliente { get; set; }
 
         public string NombreCliente { get; set; }
